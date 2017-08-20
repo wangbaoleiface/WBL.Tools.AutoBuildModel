@@ -18,7 +18,7 @@ using System.Windows.Forms;
 namespace WBL.Tools.AutoBuildModel
 {
     /// <summary>
-    /// 自动生成实体类
+    /// 自动生成实体类   
     /// </summary>
     public partial class FrmAutoBuildModel : Form
     {
