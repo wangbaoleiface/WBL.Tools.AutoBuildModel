@@ -27,6 +27,9 @@ namespace WBL.Tools.AutoBuildModel
         /// </summary>
         private string connString = "";
 
+        /// <summary>
+        /// 初始化窗口
+        /// </summary>
         public FrmAutoBuildModel()
         {
             InitializeComponent();
